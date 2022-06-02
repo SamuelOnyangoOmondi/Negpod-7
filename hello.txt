@@ -1,1 +1,9 @@
 Hello ! ! World
+git clone https://github.com/SamuelOnyangoOmondi/Negpod-7
+cd git-practice
+git checkout -b Cecilia_Cecilia-04
+echo "Hello ! ! World" > hello.txt.
+git add .
+git commit -m 'my first commit'
+git push --set-upstream origin Cecilia_Cecilia-04
+git push -u origin Cecilia_Cecilia-04
